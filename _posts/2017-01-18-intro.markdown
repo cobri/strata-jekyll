@@ -1,0 +1,10 @@
+---
+layout: post
+title: 'Jne Doe'
+categories: Meta
+excerpt: 'Hello World! Vestibulum imperdiet adipiscing arcu, quis aliquam dolor condimentum dapibus. Aliquam fermentum leo aliquet quam volutpat et molestie mauris mattis. Suspendisse semper consequat velit in suscipit.'
+---
+
+Jane Doe
+
+(1)Jane Doe is a senior account executive at Acme Industries who leads our renewable energy division. (2)She focuses on bringing solar power to new industries and oversees current solar projects. (3)Prior to Acme, Jane worked for Big Nonprofit on a team that improved the quality of drinking water in third-world countries. She also spent time at Little Nonprofit and studied the impact of oil spills on a local seafood industry. (4)Outside of work, Jane likes to ride her bike around Houston with no particular destination and read mystery novels (she's also writing one of her own). (5)She has a B.A. in art history from Tech University.
